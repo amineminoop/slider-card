@@ -136,11 +136,4 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active.swiper-pagination-
     background-color: #4070F4;
     
  }
- @media screen and (max-width: 768px) {
-    .swiper-button-next.swiper-navBtn{
-        display: none;   
-    }
-     .swiper-button-prev.swiper-navBtn {
-        display: none;
-    }
- }
+
